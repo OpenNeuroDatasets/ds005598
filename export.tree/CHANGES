@@ -1,0 +1,6 @@
+1.0.0 2024-10-26
+  - bids formatting corrected
+Changes
+
+Dan: Aug 2 2021 
+- Corrected images for sub-23, ses-02. z-axis in these images were flipped
