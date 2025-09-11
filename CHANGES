@@ -1,9 +1,6 @@
-1.1.0 2025-08-30
-Ali:
-  - Replaced non-defaced anatomical T2w scans with properly defaced versions (pydeface).
-    Affected files: ses-02 T2w for subjects 01–22 and 24–46 (45 files total).
-  - Revalidated the dataset with the BIDS validator (no errors).
-  - No other modifications were made.
+1.0.1 (2025-09-11)
+- Replaced non-defaced anatomical T2w scans (subjects 01–22, 24–46, session 02) with properly defaced versions using pydeface.
+- Dataset passes BIDS validation with no errors.
 
 1.0.0 2024-10-26
   - bids formatting corrected
