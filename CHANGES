@@ -1,3 +1,5 @@
+1.0.1 2025-09-11
+  - Replaced non-defaced scans with defaced versions
 1.0.1 (2025-09-11)
 - Replaced non-defaced anatomical T2w scans with defaced versions using pydeface.
 - Revalidated the dataset with the BIDS validator (no errors).
