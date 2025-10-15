@@ -1,0 +1,12 @@
+{
+  "Name": "Combined Behavioral Data (derived)",
+  "BIDSVersion": "1.2.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "Custom MATLAB/Python scripts",
+      "Description": "Combined subject-level .mat behavioral files into a single table."
+    }
+  ]
+}
+
