@@ -1,3 +1,5 @@
+1.0.3 2025-11-05
+  - Added behavioral data for Day 2 (generalization) and Day 1–Day 2 (savings) under /derivatives/behavioral/
 1.0.2 2025-10-15
   - Added combined behavioral data under /derivatives/behavioral/
 1.0.1 2025-09-11
